@@ -1,4 +1,4 @@
-### :tophat:  Hi there from .:serbia:
+###Hi there from .:serbia:
 
 For several years I've been working in a logistics-related field,<br/> 
 but I'm returning to old love, the one I feel best with, and that's programming.<br/><br/>
