@@ -3,7 +3,7 @@
 For several years I've been working in a transport and traffic engineering sector,<br/> 
 but I'm returning to my old love, the one I feel best with, and that's programming.<br/><br/>
 I'm working intensively on FrontEnd and BackEnd skills, and my goal is to be a full-stack web developer. 
-<br/>
+<br/><br/>
 I'm currently working on RESTful API, JPA and Java Security. :mechanic:
 <br/><br/><br/>
 
