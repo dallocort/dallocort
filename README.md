@@ -5,6 +5,7 @@ but I'm returning to my old love, the one I feel best with, and that's programmi
 I'm working intensively on FrontEnd and BackEnd skills, and my goal is to be a full-stack web developer. 
 <br/><br/>
 I'm currently working on RESTful API, JPA and Java Security. :mechanic:
+More about [my learnings](https://github.com/dallocort/courses-and-certifications)
 <br/><br/><br/>
 
 ****
