@@ -8,7 +8,7 @@ I'm currently working on RESTful API, JPA and Java Security. :mechanic:<br/>
 More about [my learnings](https://github.com/dallocort/courses-and-certifications)
 <br/><br/><br/>
 
-****
+# 
 [More about me...](https://dachadallocort.dev)| [Gmail](mailto:dragan.majstorovic@gmail.com) | [Linkedin](https://www.linkedin.com/in/dragan-majstorovi%C4%87-567802167/)
 
 
