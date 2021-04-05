@@ -8,7 +8,7 @@ I'm currently working on RESTful API, JPA and Java Security. :mechanic:
 <br/><br/><br/>
 
 ****
-[More about me...](https://dachadallocort.dev){:target="_blank" rel="noopener"} | [Gmail](mailto:dragan.majstorovic@gmail.com){:target="_blank" rel="noopener"} | [Linkedin](https://www.linkedin.com/in/dragan-majstorovi%C4%87-567802167/){:target="_blank" rel="noopener"}
+[More about me...](https://dachadallocort.dev){:target="_blank"} | [Gmail](mailto:dragan.majstorovic@gmail.com){:target="_blank" rel="noopener"} | [Linkedin](https://www.linkedin.com/in/dragan-majstorovi%C4%87-567802167/){:target="_blank" rel="noopener"}
 
 
 
