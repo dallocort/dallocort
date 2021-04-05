@@ -4,9 +4,9 @@ For several years I've been working in a transport and traffic engineering secto
 but I'm returning to my old love, the one I feel best with, and that's programming.<br/><br/>
 I'm working intensively on FrontEnd and BackEnd skills, and my goal is to be a full-stack web developer. 
 <br/><br/>
-I'm currently working on RESTful API, JPA and Java Security. :mechanic:<br/><br/>
+I'm currently working on RESTful API, JPA and Java Security. :mechanic:<br/>
 More about [my learnings](https://github.com/dallocort/courses-and-certifications)
-<br/>
+<br/><br/><br/>
 
 ****
 [More about me...](https://dachadallocort.dev)| [Gmail](mailto:dragan.majstorovic@gmail.com) | [Linkedin](https://www.linkedin.com/in/dragan-majstorovi%C4%87-567802167/)
