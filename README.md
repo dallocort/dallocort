@@ -9,7 +9,7 @@ More about [my learnings](https://github.com/dallocort/courses-and-certification
 <br/><br/>
 
 # 
-[More about me ](https://dachadallocort.dev)| [Gmail](mailto:dragan.majstorovic@gmail.com) | [Linkedin](https://www.linkedin.com/in/dragan-majstorovi%C4%87-567802167/)
+[More about me ](https://dachadallocort.dev)| [Gmail](mailto:dacha.dallocort@gmail.com) | [Linkedin](https://www.linkedin.com/in/dragan-majstorovi%C4%87-567802167/)
 
 
 
