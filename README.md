@@ -1,4 +1,4 @@
-### Hi there from .:serbia:
+### Hi there from :serbia:
 
 For several years I've been working in a transport and traffic engineering sector,<br/> 
 but I'm returning to my old love, the one I feel best with, and that's programming.<br/>
